@@ -16,7 +16,7 @@ const skills = [
 
 export default function SkillsCarousel() {
   return (
-    <section className="relative w-full overflow-hidden border-y border-gray-200/10 py-6">
+    <section className="relative w-full overflow-hidden border-y border-gray-200/10 py-4">
       {/* Gradientes laterais para criar o efeito de fade */}
       <div className="pointer-events-none absolute inset-y-0 left-0 z-10 w-32 bg-linear-to-r from-[#08090d] to-transparent" />
 
