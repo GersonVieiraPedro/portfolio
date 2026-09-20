@@ -1,0 +1,10 @@
+node_modules
+.next
+out
+build
+coverage
+package-lock.json
+public/*.png
+public/**/*.png
+public/*.jpg
+public/**/*.jpg
